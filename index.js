@@ -14,6 +14,5 @@ function inc(n) {
   return n + 1
 }
 function dec(n) {
-  parseInt(n,10)
-  return n--
+  return n-1
 }
